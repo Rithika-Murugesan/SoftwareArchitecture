@@ -1,4 +1,4 @@
-/*// No inheritance — modular components
+// No inheritance — modular components
 
 class Logger {
     public void log(String message) {
@@ -74,4 +74,4 @@ public class Low_DIT {
         UserProfileManagerLowDIT manager = new UserProfileManagerLowDIT();
         manager.loadProfile(101, "valid");
     }
-}*/
+}

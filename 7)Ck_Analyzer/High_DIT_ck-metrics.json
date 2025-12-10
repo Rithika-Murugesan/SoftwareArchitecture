@@ -1,0 +1,47 @@
+{
+  "BaseService": {
+    "wmc": 1,
+    "dit": 0,
+    "noc": 1,
+    "cbo": 0,
+    "rfc": 1,
+    "lcom1": 0,
+    "file": "High_DIT.ts"
+  },
+  "NetworkService": {
+    "wmc": 1,
+    "dit": 1,
+    "noc": 1,
+    "cbo": 0,
+    "rfc": 1,
+    "lcom1": 0,
+    "file": "High_DIT.ts"
+  },
+  "AuthService": {
+    "wmc": 1,
+    "dit": 1,
+    "noc": 1,
+    "cbo": 0,
+    "rfc": 1,
+    "lcom1": 0,
+    "file": "High_DIT.ts"
+  },
+  "UserService": {
+    "wmc": 1,
+    "dit": 1,
+    "noc": 1,
+    "cbo": 0,
+    "rfc": 1,
+    "lcom1": 0,
+    "file": "High_DIT.ts"
+  },
+  "UserProfileManager": {
+    "wmc": 2,
+    "dit": 1,
+    "noc": 0,
+    "cbo": 0,
+    "rfc": 1,
+    "lcom1": 0,
+    "file": "High_DIT.ts"
+  }
+}
